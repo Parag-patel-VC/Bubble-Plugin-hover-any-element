@@ -1,0 +1,34 @@
+{
+    "add_is_visible": true,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 15,
+        "width": 15
+    },
+    "display": "Hovred Action",
+    "events": {
+        "AAE": {
+            "caption": "Element hovred",
+            "doc": "When you hover on the element selected in the ID Attribute, you can perform this action to show an element, or any other action that you think is necessary in the workflow.",
+            "name": "show"
+        },
+        "AAF": {
+            "caption": "Element Not Hovered",
+            "doc": "When you remove the hover from the element selected in the ID Attribute, you can perform this action to hide an element, or any other action that you find necessary in the workflow.",
+            "name": "hide"
+        }
+    },
+    "fields": {
+        "AAD": {
+            "caption": "elment id",
+            "editor": "DynamicValue",
+            "name": "ElementID",
+            "rank": 0,
+            "value": "text"
+        }
+    },
+    "icon": "ion-android-plane",
+    "property_applications": {
+        "resizable": true
+    }
+}

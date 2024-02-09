@@ -1,0 +1,12 @@
+{
+    "categories": {
+        "0": "productivity"
+    },
+    "demo_page": "https://www.vizualcoders.com",
+    "description": "Execute any workflow actions when you hover over an element.\n",
+    "image": "//meta-q.cdn.bubble.io/f1707473359819x752062888710094800/hover-click-icon.svg",
+    "license": "open_source",
+    "link": "https://www.vizualcoders.com",
+    "name": "hover any element",
+    "plugin_instructions": "Execute any workflow actions when you hover over an element."
+}
